@@ -1,4 +1,4 @@
 function zlr -d "list repositories"
-  sudo zypper lr $argv
+  zypper lr $argv
 end
 
